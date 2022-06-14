@@ -32,8 +32,6 @@ HERO_BOX_NAME_CONTRACT = {
     "Bomb Box": BOMB_BOX_CONTRACT_ADDRESS
 }
 
-METABOMB_IMAGE_URL = "https://market.metabomb.io"
-
 HERO_BOX_NAME_IMAGE = {
     "Common Box": f"{METABOMB_IMAGE_URL}/gifs/herobox-gif/normal-box.gif",
     "Premium Box": f"{METABOMB_IMAGE_URL}/gifs/herobox-gif/premium-box.gif",

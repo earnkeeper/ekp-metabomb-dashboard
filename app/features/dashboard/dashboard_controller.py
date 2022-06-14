@@ -9,8 +9,6 @@ from app.features.dashboard.dashboard_page import page
 from ekp_sdk.services import ClientService
 from ekp_sdk.util import client_currency, client_path, form_values
 
-from app.features.heroes_market.history.heroes_history_service import HeroesHistoryService
-from app.features.heroes_market.listings.heroes_listings_service import HeroListingsService
 
 OPENS_COLLECTION_NAME = "metabomb_dashboard_opens"
 FUSION_COLLECTION_NAME = "metabomb_dashboard_fusion"
