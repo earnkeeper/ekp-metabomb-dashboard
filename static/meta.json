@@ -1,10 +1,10 @@
 {
-  "id": "metabomb-marketplace",
+  "id": "metabomb-dashboard",
   "gameId": "metabomb",
-  "name": "Marketplace",
-  "github": "https://github.com/earnkeeper/ekp-metabomb-marketplace",
+  "name": "Dashboard",
+  "github": "https://github.com/earnkeeper/ekp-metabomb-dashboard",
   "image": "/static/market.jpg",
-  "mainPage": "heroes",
-  "description": "Preview the Enhanced Metabomb Marketplace before official release..",
-  "features": ["Enhanced Marketplace"]
+  "mainPage": "dashboard",
+  "description": "View important stats on the Metabomb economy",
+  "features": ["Economy Health"]
 }
