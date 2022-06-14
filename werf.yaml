@@ -1,0 +1,14 @@
+configVersion: 1
+project: metabomb-dashboard
+---
+image: app
+dockerfile: Dockerfile.app
+context: .
+---
+image: sync
+dockerfile: Dockerfile.sync
+context: .
+---
+image: listener
+dockerfile: Dockerfile.listener
+context: .

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "hero_market": {
+      "error": 0,
+      "count": 1992,
+      "heroes": [
+        {
+          "id": "1992",
+          "name": null,
+          "display_id": "320",
+          "rarity": 3,
+          "level": 0,
+          "hero_class": 1,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1991",
+          "name": null,
+          "display_id": "514",
+          "rarity": 5,
+          "level": 0,
+          "hero_class": 1,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1990",
+          "name": null,
+          "display_id": "502",
+          "rarity": 5,
+          "level": 0,
+          "hero_class": 1,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1989",
+          "name": null,
+          "display_id": "111",
+          "rarity": 1,
+          "level": 0,
+          "hero_class": 2,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1988",
+          "name": null,
+          "display_id": "107",
+          "rarity": 1,
+          "level": 0,
+          "hero_class": 1,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1987",
+          "name": null,
+          "display_id": "519",
+          "rarity": 5,
+          "level": 0,
+          "hero_class": 3,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1986",
+          "name": null,
+          "display_id": "310",
+          "rarity": 3,
+          "level": 0,
+          "hero_class": 4,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1985",
+          "name": null,
+          "display_id": "214",
+          "rarity": 2,
+          "level": 0,
+          "hero_class": 1,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1984",
+          "name": null,
+          "display_id": "115",
+          "rarity": 1,
+          "level": 0,
+          "hero_class": 3,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1983",
+          "name": null,
+          "display_id": "203",
+          "rarity": 2,
+          "level": 0,
+          "hero_class": 3,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1982",
+          "name": null,
+          "display_id": "305",
+          "rarity": 3,
+          "level": 0,
+          "hero_class": 4,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1981",
+          "name": null,
+          "display_id": "1",
+          "rarity": 0,
+          "level": 0,
+          "hero_class": 3,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1980",
+          "name": null,
+          "display_id": "304",
+          "rarity": 3,
+          "level": 0,
+          "hero_class": 4,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1978",
+          "name": null,
+          "display_id": "204",
+          "rarity": 2,
+          "level": 0,
+          "hero_class": 2,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1979",
+          "name": null,
+          "display_id": "112",
+          "rarity": 1,
+          "level": 0,
+          "hero_class": 1,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1976",
+          "name": null,
+          "display_id": "502",
+          "rarity": 5,
+          "level": 0,
+          "hero_class": 0,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1977",
+          "name": null,
+          "display_id": "421",
+          "rarity": 4,
+          "level": 0,
+          "hero_class": 0,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        },
+        {
+          "id": "1975",
+          "name": null,
+          "display_id": "219",
+          "rarity": 2,
+          "level": 0,
+          "hero_class": 3,
+          "for_sale": false,
+          "price": 0,
+          "__typename": "Hero"
+        }
+      ],
+      "__typename": "HeroMarketResponse"
+    }
+  }
+}
