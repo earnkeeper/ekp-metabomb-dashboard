@@ -74,7 +74,12 @@ class MetabombApiService:
 
         start = time.perf_counter()
 
-        transport = AIOHTTPTransport(url=url)
+        headers = {
+            "Origin": "https://market.metabomb.io",
+            "Referer": "https://market.metabomb.io/"
+        }
+
+        transport = AIOHTTPTransport(url=url, headers=headers)
 
         async with Client(transport=transport) as client:
             gql_result = await client.execute(
